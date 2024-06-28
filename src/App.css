@@ -36,7 +36,8 @@ button{
 }
 
 footer{
-  background: #161619;
+  /*background: #161619;*/ 
+  background: #fff;  /* temporarily changed the footer color to reveal icons */ 
   width: 317px;
   text-align: center;
   height: 64px;
